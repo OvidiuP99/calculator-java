@@ -19,7 +19,7 @@
 - Programul procesează corect expresii aritmetice valide, inclusiv cu **paranteze** și **numere zecimale**.  
 - Erorile de intrare (caractere nenumerice, operatori necunoscuți, împărțire la zero) sunt identificate corespunzător.  
 - Totuși, se pot adăuga mesaje de eroare mai descriptive pentru utilizator.  
-- Recomandare: includerea testelor automate (JUnit) pentru validarea continuă a metodei `Calculate()`.
+- Recomandare: includerea testelor automate (JUnit) pentru validarea continuă a metodei Calculate().
 
 
 
