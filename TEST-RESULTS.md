@@ -21,11 +21,8 @@
 - Totuși, se pot adăuga mesaje de eroare mai descriptive pentru utilizator.  
 - Recomandare: includerea testelor automate (JUnit) pentru validarea continuă a metodei `Calculate()`.
 
----
 
-##  Test Unitar (JUnit 5) — Exemplu
 
-Testele unitare pentru metoda `Calculate()` pot fi scrise într-un fișier nou:
 
 
 
